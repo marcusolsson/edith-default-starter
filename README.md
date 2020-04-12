@@ -3,6 +3,8 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contribute)
 
+![screenshot](screenshot.png)
+
 Default Gatsby starter for [Edith](https://github.com/marcusolsson/edith).
 
 ## Getting started
