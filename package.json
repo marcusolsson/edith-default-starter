@@ -1,5 +1,5 @@
 {
-  "name": "edith-default-starter",
+  "name": "gatsby-starter-edith-default",
   "private": true,
   "description": "A starter for Edith",
   "version": "0.1.0",
@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcusolsson/edith-default-starter"
+    "url": "https://github.com/marcusolsson/gatsby-starter-edith-default"
   },
   "bugs": {
-    "url": "https://github.com/marcusolsson/edith-default-starter/issues"
+    "url": "https://github.com/marcusolsson/gatsby-starter-edith-default/issues"
   }
 }
